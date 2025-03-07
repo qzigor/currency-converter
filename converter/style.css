@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+.converter{
+    height: 100vh;
+    background-color: #141414;
+    padding: 3%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: #4e4e4e;
+    width: 75%;
+    height: 75%;
+    border-radius: 20px;
+}
